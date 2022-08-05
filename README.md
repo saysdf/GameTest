@@ -1,8 +1,13 @@
-# GameTest
+## GameTest
 
 for compile use 
-    clang++ *.cpp -o SW_Oleg_Test_Clang -std=c++17 -static-libstdc++
+   
+   <sub>clang++ *.cpp -o SW_Oleg_Test_Clang -std=c++17 -static-libstdc++</sub>
+   
 for evaluate use or exec in /ubuntu_exec folder
-  ./SW_Oleg_Test_clang_ubuntu test.txt
+
+  <sub>./SW_Oleg_Test_clang_ubuntu test.txt</sub>
+  
   or copiled file
-  ./SW_Oleg_Test_Clang test.txt
+  
+  <sub>./SW_Oleg_Test_Clang test.txt</sub>
